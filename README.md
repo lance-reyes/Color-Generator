@@ -1,3 +1,6 @@
 # Color-Generator
-This website is similar to "coolors.co", except it only gives one color in the form of RGB.
-This file originally goes to Colt Steele's Web Development Bootcamp on Udemy. I just used this file to add some designs and overall improve the website.
+This is my first project as I learn Website Development.
+
+About the website:
+    What I envision is a similar concept from "coolors.co" where it gives you colors randomly by clicking/pressing space.
+    This file originally goes to Colt Steele's Web Development Bootcamp on Udemy. I used this file to add some features like giving HEX and HSL capability.
